@@ -1,6 +1,6 @@
 ### Fullstack app
 
-a complete fill stack app with industry folder structure.
+a complete full stack app with industry folder structure.
 
 ### Setting up project
 
@@ -18,8 +18,6 @@ folder structure
         app.js // it will have all the code of express
 
     server.js // it will have code to start server.
-
-
 
 
 ```
